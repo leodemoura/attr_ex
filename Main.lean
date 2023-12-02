@@ -1,4 +1,3 @@
-import «Attrex»
+import Attrex
 
-def main : IO Unit :=
-  IO.println s!"Hello, {hello}!"
+#print_dafny_exports
